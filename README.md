@@ -28,6 +28,8 @@ After that, to work on the site locally on your computer regenerate the site and
 
     # In another terminal window
     make serve
+    
+Now go to [localhost:8000](http://localhost:8000) in the browser to see your site (served from your computer, not from the web).
 
 ## Deployment
 
