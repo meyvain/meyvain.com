@@ -1,3 +1,21 @@
 form > .row {
     margin: 0 0 2em 0;
 }
+
+figure {
+    margin: 0 0 2em 0;
+}
+
+figure > .image.fit {
+    margin: 0;
+}
+
+figure > .image {
+    border-radius: 0.35em 0.35em 0 0;
+}
+
+figcaption {
+    background: #f0f0f0;
+    padding: 0.5em;
+    border-radius: 0 0 0.35em 0.35em;
+}
