@@ -25,7 +25,7 @@ AUTHOR_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
