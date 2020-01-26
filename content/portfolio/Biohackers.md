@@ -55,7 +55,9 @@ So on one hand I decided to simulate a fictional body art studio's online shop, 
 
 You are welcome to visit the Under your Skin project's [website](https://meyvain.wixsite.com/underyourskin) and watch the [YouTube video](https://www.youtube.com/watch?v=6Xh1R7xtPp8) that demonstrate the experience from the view point of a biohacker costumer browsing through the catalogue and the AR app to think about future human augmentation.
 
-[![watch my project on YouTube](images/thumbs/under_your_skin_youtube.png)](https://www.youtube.com/watch?v=6Xh1R7xtPp8)
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Xh1R7xtPp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ###*why an online shop?*
 
