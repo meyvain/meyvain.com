@@ -1,6 +1,6 @@
 Title: Human-Robot-Interaction
 Date: 2020-01-01 10:10
-Summary: Ethnographic research on surgeons performing robotic assisted surgery.  Emphasising on  exploring the experience of surgeons performing minimal-invasive-surgery (MIS) using the da Vinci robotic system.
+Summary: Ethnographic research on surgeons performing robotic assisted surgery with an emphasise on their experience performing minimal-invasive surgery with the da Vinci robotic system.
 Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865-hi-res.jpg
 
 
@@ -9,49 +9,45 @@ Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865
   <figcaption>  The da Vinci surgical system by Intuitive surgical inc.</figcaption>
 </figure>
 
-##Background
+*This project was conducted in 2019 as my master's thesis in Digital Anthropology at University College London, awarding me with a Merit.*
+<!-- This work was modified into an article for ALT.HRI for the IEEE Human-Robot-Interaction convention, Cambridge, UK 2020. -->
 
-Conducted on 2019 as part of my Digital Anthropology MSc, for UCL.
-This work was modified into an article for ALT.HRI for the IEEE Human-Robot-Interaction convention, Cambridge, UK 2020.
+# Background
 
-This work aimed to develop a further understanding and experience on qualitative research withing academic practice while unfolding technology mediated human experiences with cultural theoretical framework. Therefore, I dedicated to human-centred human robot interaction (HRI) with medical technology in the case study of surgeons performing minimal invasive surgery (MIS) using the da Vinci robotic system.
+In this project I aimed to further develop my understanding and gain experience with qualitative research as an academic practice.
+It explores technology mediated human experiences based on human-robot interaction approach.
+More specifically, this work examines the case study of surgeons performing minimal invasive surgery (MIS) using the da Vinci robotic system.
+It demonstrates how human-centred anthropological approach can be applied to the investigation of medical technologies.
 
-The the da Vinci robotic systems is specifically designed for MIS composed by 3 components;  Surgeon Console, Vision Cart and Patient Cart. All of which part of a digital infrastructure that transformed MIS practice to the very core. With analogue tools left behind the surgeons manipulates the robot without ever touching the patient, sitting in the surgeon console with their hands operating the robot from a few meters away.  
+<!-- The the da Vinci robotic systems is specifically designed for MIS composed by 3 components;  Surgeon Console, Vision Cart and Patient Cart. All of which part of a digital infrastructure that transformed MIS practice to the very core. With analogue tools left behind the surgeons manipulates the robot without ever touching the patient, sitting in the surgeon console with their hands operating the robot from a few meters away. -->
 
-##Challenges
+# Challenges
 
-- exposure on a large literature (both HRI, medical technology and MIS) to cover a complex and current topic in research
-- finding a way into the field
-- critical thinking on a cutting edge technology
-- developing further previous theoretical work
-- time constraints
+- Exposure to a multidisciplinary literature, ranging from human-robot interaction to advances in medical technology.
+- Coming from anthropology and finding my way into the field of medical technology.
+- Criticising a cutting edge technology.
+- Dealing with time constraints.
 
-##Method
+# Methods
 
-* Semi-structured interviews with 6 surgeons
-* Ethnographic field work in a specialised robotic assisted surgery department in West London, England, observing 6 MIS surgeries.
+- Semi-structured interviews with 6 surgeons.
+- Ethnographic field work in a specialised robotic assisted surgery department in West London, observing 6 minimal invasive surgeries.
+- Employing thematic analysis techniques by establishing a theoretical and raw data emergent codes to detect patterns in my data to be discussed in an academic fashion.
 
-Analysis conducted by thematic analysis by establishing a theoretical and raw data codebooks as I created a system of data sheets in order to analyse and articulate themes to be later discussed in an academic fashion.
+# Solution
 
-##Solution
+The idea that humans enhance their lives and bodies using tools and extend their abilities and senses beyond their biological bodies is one of the main themes explored in anthropology.
+Following cyborg anthropology practice that focuses on the connections between technologies and bodies (Gray et al., 1995) I decided to unfold surgeons experience using such a complex medical technology in my findings in three sections.
+First, Isolation, describes the system’s settings and impact on ergonomics, communication and sense of control of surgeons.
+Secondly, Enhancement, focuses on the ways in which the system enhances physically and cognitively the surgeons abilities and preferences.
+Lastly, immersive qualities, were I have offered my analysis on the system’s immersive qualities and its affects on surgeons experience while performing surgery, including a video-game, ’in the zone’, relaxing experience, with noticeable body and place illusion.
 
+In this work I have identified some common experience emerging from the interviews.
+The surgeons expresses a tension between ’interacting with’ the da Vinci robot and a feeling of ’being’ the robot.
+In other words, they sometime discuss the robot as an external tool and sometime think about it as an extension of their own body.
 
-The idea that humans enhance their lives and bodies by using tools, extending their
-abilities and senses beyond their biological bodies is one of the main themes explored in
-anthropology.
+I conclude with a discussion on immersive qualities of the da Vinci robotic system as an instrument based on digital infrastructure.
 
-Following cyborg anthropology practice that focus on the connections between technologies and bodies (Gray et al., 1995) I decided to unfold surgeons experience using such a complex medical technology in my findings in three sections; first, Isolation, describing the system’s settings and impact on ergonomics, communication and sense of control on surgeons. Secondly, Enhancement, focusing on the ways in which the system enhances physically and cognitively the surgeons abilities and preference. Lastly, immersive qualities, where I have offered my analysis on the system’s immersive qualities and its affects
-on surgeons experience while performing surgery, including a video-game, ’in the zone’, relaxing experience with advanced body and place illusion.
-
-In this work I have identified an underline experience all surgeons have discussed with me.
-A tension surgeons expressed to me, as the tension between ’interacting with’ the da Vinci robot and a
-feeling of ’being’ the robot, between interacting with the robot as an external tool and
-thinking about it as an extension of their own body.
-
-I conclude with a discussion on immersive qualities of the da Vinci robotic system as a digital infrastructure based instrument.
-
-This work was presented both for UCL as my MSc research, awarding me with Merit and to the 15th annual conference of alt.HRI international convention for IEEE.
-
-
+<!-- This work was presented both for UCL as my MSc research, awarding me with Merit and to the 15th annual conference of alt.HRI international convention for IEEE. -->
 
 <img class="image fit" src="images/fulls/davinci_surgery_fieldwork.jpg">
