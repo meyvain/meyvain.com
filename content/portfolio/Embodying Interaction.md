@@ -1,4 +1,4 @@
-Title: Human-Robot-Interaction
+Title: Embodying Interaction
 Date: 2020-01-01 10:10
 Summary: Ethnographic research on surgeons performing robotic assisted surgery with an emphasise on their experience performing minimal-invasive surgery with the da Vinci robotic system.
 Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865-hi-res.jpg
