@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Meytal Mitchell Vainstub'
 SITENAME = 'Meytal Mitchell Vainstub'
 SITEURL = ''
+DESCRIPTION = 'Junior UX Research and Digital Anthropologist'
 
 PATH = 'content'
 
