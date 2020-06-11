@@ -1,6 +1,6 @@
-Title: Embodying Interaction
+Title: Human Robot Interaction
 Date: 2020-01-01 10:10
-Summary: Qualitative user research on surgeons performing robotic-assisted surgery with an emphasis on their experience performing Minimal Invasive Surgery (MIS) with the da Vinci robotic system.
+Summary: Qualitative user research on surgeons performing robotic-assisted surgery with an emphasis on their experience performing Surgery with the da Vinci robotic system.
 Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865-hi-res.jpg
 
 
@@ -9,14 +9,19 @@ Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865
   <figcaption>  The da Vinci surgical system by Intuitive surgical inc.</figcaption>
 </figure>
 
-*This project was conducted in 2019 as my master's thesis in Digital Anthropology at University College London, awarding me with a Merit.*
-<!-- This work was modified into an article for ALT.HRI for the IEEE Human-Robot-Interaction convention, Cambridge, UK 2020. -->
+
+# summary
+
+In this project, I aimed to further develop my understanding and gain experience with qualitative research as an academic practice. The study explores human experiences based on Human-Robot-Interaction approach. More specifically, this work examines the case study of surgeons performing Minimal Invasive Surgery (MIS) using the da Vinci robotic system. My findings demonstrate how human-centred anthropological approaches can be applied to the investigation of medical technologies.
+
 
 # Background
 
-In this project, I aimed to further develop my understanding and gain experience with qualitative research as an academic practice. The study explores technology mediated human experiences based on human-robot interaction approach. More specifically, this work examines the case study of surgeons performing Minimal Invasive Surgery (MIS) using the da Vinci robotic system. My findings demonstrate how human-centred anthropological approaches can be applied to the investigation of medical technologies.
+*This project was conducted in 2019 as my MSc thesis in Digital Anthropology at University College London, awarding me with a Merit degree.*
+<!-- This work was modified into an article for ALT.HRI for the IEEE Human-Robot-Interaction convention, Cambridge, UK 2020. -->
 
-<!-- The the da Vinci robotic systems is specifically designed for MIS composed by 3 components;  Surgeon Console, Vision Cart and Patient Cart. All of which part of a digital infrastructure that transformed MIS practice to the very core. With analogue tools left behind the surgeons manipulates the robot without ever touching the patient, sitting in the surgeon console with their hands operating the robot from a few meters away. -->
+
+The the da Vinci robotic systems is specifically designed for MIS composed by 3 components;  Surgeon Console, Vision Cart and Patient Cart. All of which part of a digital infrastructure that transformed MIS practice to the very core. With analogue tools left behind the surgeons manipulates the robot without ever touching the patient, sitting in the surgeon console with their hands operating the robot from a few meters away.
 
 # Challenges
 
