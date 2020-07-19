@@ -1,0 +1,18 @@
+<section>
+    <header class="major">
+        <h2>Recent Work</h2>
+    </header>
+    <div class="posts">
+
+        {% for article in articles if article.category.name == 'portfolio' %}
+        <article>
+            <a href="{{ article.url }}" class="image"><img src="{{ article.thumbnail }}" /></a>
+            <h3>{{ article.title }}</h3>
+            <p>{{ article.summary }}</p>
+            <ul class="actions">
+                <li><a href="{{ article.url }}" class="button">More</a></li>
+            </ul>
+        </article>
+        {% endfor %}
+    </div>
+</section>

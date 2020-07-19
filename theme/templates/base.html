@@ -1,70 +1,40 @@
 <!DOCTYPE HTML>
 <!--
-	Strata by HTML5 UP
+	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>{{ SITENAME }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="{{ DESCRIPTION }}" />
-		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
-		<link rel="stylesheet" href="{{ SITEURL }}/theme/css/mods.css" />
+<head>
+    {% include 'includes/head.html' %}
+</head>
+<body class="is-preload">
 
-		<!-- Open graph protocol -->
-		<meta property="og:title" content="{{ SITENAME }}" />
-		<meta property="og:type" content="website" />
-		<meta property="og:url" content="{{ SITEURL }}" />
-		<meta property="og:image:secure_url" itemprop="image" content="{{ SITEURL }}/images/avatar.jpg" />
-		<meta property="og:description" content="{{ DESCRIPTION }}" />
+    <!-- Wrapper -->
+    <div id="wrapper">
 
-		<!-- Twitter cards -->
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:image" content="{{ SITEURL }}/images/avatar.jpg" />
+				<!-- Main -->
+        <div id="main">
+						<div class="inner">
 
-	</head>
-	<body class="is-preload">
+            {% include 'includes/header.html' %}
 
-		<!-- Header -->
-			<header id="header">
-				<div class="inner">
-					<a href="{{ SITEURL }}/" class="image avatar"><img src="{{ SITEURL }}/images/avatar.jpg" alt="" /></a>
-					<h1> 	Hi, my name is Meytal Mitchell Vainstub.<br />
-						But, please, <strong>call me Mitch.</strong><br />
-						I am a User Experience Researcher.<br />
-						Passionate about medical technology.</h1>
-				</div>
-			</header>
+            {% block main %}
+            {% endblock %}
 
-		<!-- Main -->
-			<div id="main">
-        {% block main %}
-        {% endblock %}
-			</div>
+            {#% include 'includes/sidebar.html' %#}
+            {% include 'includes/footer.html' %}
 
-		<!-- Footer -->
-			<footer id="footer">
-				<div class="inner">
-					<ul class="icons">
-					  <li><a href="https://twitter.com/meyvain" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://www.linkedin.com/in/meytal-mitchell-vainstub-54b014130/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="mailto:meyvain@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-					</ul>
-					<ul class="copyright">
-						<li>&copy; Meytal Mitchell Vainstub</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</div>
-			</footer>
+            </div>
+        </div>
+    </div>
 
 		<!-- Scripts -->
-			<script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-			<script src="{{ SITEURL }}/theme/js/jquery.poptrox.min.js"></script>
-			<script src="{{ SITEURL }}/theme/js/browser.min.js"></script>
-			<script src="{{ SITEURL }}/theme/js/breakpoints.min.js"></script>
-			<script src="{{ SITEURL }}/theme/js/util.js"></script>
-			<script src="{{ SITEURL }}/theme/js/main.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/browser.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/breakpoints.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/util.js"></script>
+    <script src="{{ SITEURL }}/theme/js/main.js"></script>
 
-	</body>
+</body>
 </html>

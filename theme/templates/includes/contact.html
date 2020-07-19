@@ -1,0 +1,9 @@
+<section id="three">
+    <h2>Get In Touch</h2>
+    <ul class="contact">
+        {% for _, content, icon, link in BLOGROLL %}
+            <li class="icon {{ icon }}"><a href="{{ link }}">{{ content }}</a></li>
+        {% endfor %}
+        <li class="icon solid fa-phone">(+44) 07729046656</li>
+    </ul>
+</section>

@@ -25,6 +25,11 @@ DIRECT_TEMPLATES = ['index']
 AUTHOR_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
+BLOGROLL = [
+    ('Linkedin', 'Meytal Mitchell Vainstub', 'brands fa-linkedin', 'https://www.linkedin.com/in/meytal-mitchell-vainstub-ux-research/'),
+    ('Twitter', '@meyvain', 'brands fa-twitter', 'https://twitter.com/meyvain/'),
+    ('eMail', 'meyvain@gmail.con', 'solid fa-envelope', 'mailto:meyvain@gmail.com'),
+]
 
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
 EXTRA_PATH_METADATA = {

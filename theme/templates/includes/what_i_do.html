@@ -1,0 +1,16 @@
+<section>
+    <header class="major">
+        <h2>What I do</h2>
+    </header>
+    <div class="features">
+        {% for article in articles if article.category.name == 'what_i_do' %}
+        <article>
+            <span class="icon {{ article.icon }}"></span>
+            <div class="content">
+                <h3>{{ article.title }}</h3>
+                {{ article.content }}
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</section>
