@@ -2076,7 +2076,7 @@ button,
   display: -ms-flex;
   display: flex;
   border-bottom: solid 5px #f56a6a;
-  padding: 6em 0 1em 0;
+  padding: 3em 0 1em 0;
   position: relative; }
   #header > * {
     -moz-flex: 1;
@@ -2091,21 +2091,6 @@ button,
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
-  @media screen and (max-width: 1680px) {
-    #header {
-      padding-top: 5em; } }
-  @media screen and (max-width: 736px) {
-    #header {
-      padding-top: 6.5em; }
-      #header .logo {
-        font-size: 1.25em;
-        margin: 0; }
-      #header .icons {
-        height: 5em;
-        line-height: 5em;
-        position: absolute;
-        right: -0.5em;
-        top: 0; } }
 
 /* Banner */
 #banner {
