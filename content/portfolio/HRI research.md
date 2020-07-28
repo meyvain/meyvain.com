@@ -47,19 +47,8 @@ Including:
 
 # Analysis
 
-I used Thematic Analysis techniques to establish codes to detect emerging patterns.
-
--->
-
-Using affinity diagrams to unfold the clusters
-
--->
-
-establish experience flows
-
--->
-
-coherent structure
+* Thematic Analysis techniques to establish codes to detect emerging patterns.
+* Affinity diagrams to unfold the clusters and establish experience flows
 
 
 # Findings
@@ -95,6 +84,6 @@ Rather **it is the design of the interaction between the tool, i.e. the robot, a
 
 To this day, researchers could not determine if robotic-assisted minimal invasive surgeries (this type of surgery) is better for the patients when compared to the same analogue procedures. This is a current and very heated debate in the medical community. This robotic system is expensive, and still, the rate of their adoption in hospitals worldwide is growing exponentially.
 
-What I would point out here, is **the incredible change a user experience design can bring to a whole industry and every each surgeon who decides to adopt this medical device instead of previous forms of performing surgery. By doing that they dedicate their whole careers to this device, to this robotic system, arguably on the base of better user experience.**
+What I would point out here, is **the incredible change a user experience design can bring to a whole industry and every each surgeon who decides to adopt this medical device** instead of previous forms of performing surgery. By doing that they dedicate their whole careers to this device, to this robotic system, **arguably on the base of better user experience.**
 
 <img class="image fit" src="images/fulls/davinci_surgery_fieldwork.jpg">
