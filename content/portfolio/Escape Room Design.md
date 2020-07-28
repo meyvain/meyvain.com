@@ -48,6 +48,7 @@ Each wireframe was testing different point of start - as I set up three differen
 As I couldn't test the whole experience (too site-specific), I could, however, test each component independently, or in other words, to test the physical clues which make up the experience. Therefore, I ran usability tests on the physical components of the clues on my family and see if parts of the prototype are working.
 
 For instance:
+
 * Is the maps to the treasure where comprehendible?
 * Is the secret codes decipherable?
 * Does the symbols make sense?
@@ -64,7 +65,9 @@ after the tests were completed.
 
 It was an amazing day! I had THE BEST time. Observing my friends and family enjoying my little design creation was such a joy I didn't even imagine.
 
-Each clue they deciphered, each hurdle they overcame, each checky distraction I invented which they fell for I had the proudest sensation, knowing I invented something and that MY ESCAPE ROOM DESIGN  was a success. Well, that and the praises I got after didn't hurt either I suppose : )
+**Each clue they deciphered, each hurdle they overcame, and each checky distraction I designed which they fell for I had the proudest sensation**, knowing that the escape room experience as a whole was a success.
+
+Well, that and the praises I got after didn't hurt either I suppose : )
 
 
 
