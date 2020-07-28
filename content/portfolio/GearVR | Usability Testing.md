@@ -66,7 +66,7 @@ As the facilitator, I guided them through the tasks while collecting my data on 
 
 <figure>
   <img class="fit image" src="images/fulls/VR_usability_test.jpg" />
-  <figcaption> A participants using the GearVR controller for the first time. </figcaption>
+  <figcaption> A participant adjusting to the GearVR controller. </figcaption>
 </figure>
 
 # Analysis
@@ -82,8 +82,8 @@ Using sticky notes to summarise finding. To uncover patterns in the experience I
 
 | Without controller| With controller|
 |---|---|
-|  got tired quicker (hand and overall) | less tiring |
-| reporting awkward feeling, including not knowing what to do with their hands (having no controller to grab)  | more intuitive interaction, particularly with menu junctions points.  |
+|  more tiring (hand and overall) | less tiring |
+| reported awkward feelings, including uncomfortable sensation not knowing what to do with their hands | more intuitive interaction, particularly with menu junctions points.  |
 |   | better immersion |
 
 
@@ -121,10 +121,10 @@ Coming from anthropology where a comparison is made in an analytical macro posit
 
 ## The power of research
 
-Undertaking this usability testing showed me once again the power of research vs assumptions.
+Undertaking this usability testing exercises showed me once again the power of research vs assumptions.
 The findings completely shattered my expectation. As I don't tend to enjoy navigating with this controller I assumed my friends will find it just as an obstacle as I did. And yet, they all preferred to use the controller during this game after all.
 
 <figure>
   <img class="fit image" src="images/fulls/VR_usability_test_landsend2.jpg" />
-  <figcaption> A screen shot during a game of Land's End in VR.</figcaption>
+  <figcaption> A screen shot I've taken during a game of Land's End in VR.</figcaption>
 </figure>

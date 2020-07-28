@@ -16,11 +16,11 @@ To start working on this project:
     python -m venv env
     source env/bin/activate
     pip install -r requirements.txt
-    
+
 When working on the project make sure you always activate the virtual environment (in *all* terminals):
 
     source env/bin/activate
-    
+
 After that, to work on the site locally on your computer regenerate the site and serve it:
 
     # In one terminal window
@@ -28,15 +28,30 @@ After that, to work on the site locally on your computer regenerate the site and
 
     # In another terminal window
     make serve
-    
+
 Now go to [localhost:8000](http://localhost:8000) in the browser to see your site (served from your computer, not from the web).
+
+## git
+
+git pull # to be sure you have all the late work from other contributors
+
+git add
+
+git commit   # +name your changes
+
+git push   
 
 ## Deployment
 
-To deploy run:
+To deploy first get into:
+
+source env/bin/activate
+
+
+then run:
 
     make github
-    
+
 ### The nitty-gritty details
 
 The [meyvain.com](https://mayvain.com) domain is registered and managed by [NameCheap](https://www.namecheap.com/).

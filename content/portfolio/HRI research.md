@@ -41,7 +41,7 @@ Including:
 
 <figure>
   <img class="fit image" src="images/fulls/Copy of Field work sketches_6.jpg" />
-  <figcaption>Sketch.</figcaption>
+  <figcaption>A quick sketch I made during fieldwork at the operating theatre which captures a surgeon using the robotic system while performing surgery.</figcaption>
 </figure>
 
 

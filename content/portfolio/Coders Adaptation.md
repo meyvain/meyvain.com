@@ -27,7 +27,7 @@ This work had taken place as part of a course at Professor Amalia Oliver's class
 
 <figure>
   <img class="fit image" src="images/fulls/hasadna1.jpg" />
-  <figcaption>A meetup by 'The Public Knowledge Workshop'. Taken their website.</figcaption>
+  <figcaption>A meetup by 'The Public Knowledge Workshop'. Taken from their website.</figcaption>
 </figure>
 
 
@@ -101,5 +101,5 @@ By helping the organisation improve their volunteer's adaptation practices, I cr
 
 <figure>
   <img class="fit image" src="images/fulls/hasadna2.jpg" />
-  <figcaption>Taken from ‘The Public Knowledge Workshop’ website .</figcaption>
+  <figcaption>Image taken from ‘The Public Knowledge Workshop’ website .</figcaption>
 </figure>

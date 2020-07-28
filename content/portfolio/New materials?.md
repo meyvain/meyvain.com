@@ -65,14 +65,14 @@ Creating:
 
 <figure>
   <img class="fit image" src="images/fulls/IMG_4112.jpg" />
-  <figcaption> During a workshop with Our Own Skin.</figcaption>
+  <figcaption> Image taken during a workshop with Our Own Skin, while working on prioritising exercise.</figcaption>
 </figure>
 
 
 
 <figure>
   <img class="fit image" src="images/fulls/OOS_Body_workshop.jpg" />
-  <figcaption> During workshop.</figcaption>
+  <figcaption> Image taken during a workshop with Our Own Skin, at a "possible opportunities" exercise.</figcaption>
 </figure>
 
 ## II. Game: Design From the Future.

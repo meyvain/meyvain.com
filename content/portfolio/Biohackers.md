@@ -85,7 +85,7 @@ The Under your Skin project's [website](https://meyvain.wixsite.com/underyourski
 
 <figure>
   <img class="fit image" src="images/fulls/under_your_skin_web_look.png" />
-  <figcaption> Snapshot from a YouTube video I put together for the Under your Skin project demonstrating the experience from the viewpoint of a Biohacker customer, i.e the user, browsing through the catalogue and using the AR app.</figcaption>
+  <figcaption> Snapshot from a YouTube video I'd put together for the Under your Skin project demonstrating the experience from the viewpoint of a Biohacker customer, i.e the user, browsing through the catalogue and using the AR app I made.</figcaption>
 </figure>
 
 
@@ -121,12 +121,15 @@ This led me to create a conceptual prototype that could combine the existing hum
 
 # Lesson Learned
 
-## Ambition in prototyping phase is great - but not in staid of everything else
+## Don't run straight to prototyping
 
-  I certainly needed to spend more effort to design this whole project. I was very exited with the findings from the research (that went so well!) that I ran to the prototyping of the website and AR app (which I learn to do from scratch) with very little effort on the design plan process.
+  I certainly needed to spend more effort to design this whole project. I was very exited with the findings from the research (that went so well!) that I ran to the prototyping of the website and
+  AR app (which I learn to do from scratch) with very little effort on the design plan process.
 For instance:
-  * *I skipped the wire-frame stage for the website - big mistake. huge. it didn't work* Where I ended up with a very messy website with crude navigation that isn't clear.
-  * *No testing.*
+
+  * I skipped the wire-frame stage for the website - big mistake. huge. it didn't work Where I ended up with a very messy website with crude navigation that isn't clear.
+  * No testing.
+
   Regardless of the time limitation I had. I shouldn't have skipped the testing part. Either the spelling mistakes (arrrr the shame!) or the fact there where so many usability issues. So much so that even the YouTube video I made to explain the whole project, to make it clear and visual, came out very confusing as well. Yes, the irony.
 
 
@@ -138,4 +141,4 @@ The story of those Biohackers was good, fascinating in fact, but I didn't told i
 
 ## Focus
 
-I defensively whet a bit overboard with this one. Too many angles resulting in an uncomprehended project. I had to explain a great deal to reach understanding in the presentation day and anyone I showed my website to ever since.
+I defensively went a bit overboard with this one. Too many angles resulting in an uncomprehended project. I had to explain a great deal to reach understanding in the presentation day and anyone I showed my website to ever since.
