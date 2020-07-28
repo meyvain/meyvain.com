@@ -1,11 +1,9 @@
 Title: Escape Room Design
 Date: 2015-01-01 10:10
-Summary: A creative design exercise to keep me sain during COVID 19 quarantine. From ideation, prototype and execution I designed and build an outdoors escape room experience.
+Summary: A creative design exercise to keep me sane during the COVID 19 quarantine. From ideation to prototype and execution, I designed and built a site specific outdoors escape room experience.
 Thumbnail: images/thumbs/Thumb_escape_room_userflow.jpg
 
-<figure>
-  <img class="fit image" src="images/fulls/escape_room_Tom.jpg" />
-</figure>
+<img class="fit image" src="images/fulls/escape_room_Tom.jpg" />
 
 # Background
 
@@ -16,16 +14,16 @@ My partner's birthday was coming up, and going to escape rooms is a bit of a tra
 I was thrilled and spent the whole week planning, prototyping and testing. Having been in my fair share of escape rooms over the past couple of years I know the format quite well and so it was particularly joyful to take the format and completely spin it, fitting it to my partner, i.e my user, and the needs of this particular COVID-19 circumstances.
 
 
-# Design plan
+# Design Plan
 
 
-**Limitations**
+## Limitations
 
 * Must be an outdoors experience
 * Must be easy to sterilise between participants
 * Will be site-specific (sandy beach, no electricity etc)
 
-**Define  / Design consideration**
+## Define / design consideration
 
 I had some general ideas I wanted to include in the whole design experience before delving in. Some consideration such as:
 
@@ -34,7 +32,7 @@ I had some general ideas I wanted to include in the whole design experience befo
 * Limited testing abilities
 * no need for facilitator - I aimed to optimise the clues, making sure the player's journey was as smooth as possibly - to avoid being a facilitator throughout the party.
 
-**Ideation:**
+## Ideation
 
 Creating a wireframe and journey maps to determine clues and tasks flow, to predicate possible decision-making process.
 
@@ -43,9 +41,7 @@ I made different user journeys maps to experiment with different ways to approac
 Each wireframe was testing different point of start - as I set up three different points of start and I could not know which clue they will pick up first.  So, methodologically, I explored each flow to see the possible courses of actions will indeed end up in the player finding the berried treasure.
 
 
-<figure>
-  <img class="fit image" src="images/fulls/escape_room_userflow.jpg" />
-</figure>
+<img class="fit image" src="images/fulls/escape_room_userflow.jpg" />
 
 # Prototyping and Testing
 
@@ -77,28 +73,23 @@ Each clue they deciphered, each hurdle they overcame, each checky distraction I 
 # Lesson Learned
 
 
-* **YES to iterative testing - or - "Oops, missed that"**
+## YES to iterative testing - or - "Oops, missed that"
 
-    Each time another group played I found other things I could have placed better in the flow or even clues which were completely missed.
+Each time another group played I found other things I could have placed better in the flow or even clues which were completely missed.
 
-* **People have different mental models - or - "Why are they doing that?"**
+## People have different mental models - or - "Why are they doing that?"
 
+Some were all about brute-force approach, others were after having all of the information possible before deciding upon their next action. Regardless of the techniques or tactics to overcome an obstacle I learned once again how people have different mental models of how things work (e.g. how to read a map or open a number combination lock) and how to approach a problem altogether (strategy, delegating tasks among group members etc).
 
-    Some were all about brute-force approach, others were after having all of the information possible before deciding upon their next action. Regardless of the techniques or tactics to overcome an obstacle I learned once again how people have different mental models of how things work (e.g. how to read a map or open a number combination lock) and how to approach a problem altogether (strategy, delegating tasks among group members etc).
+## YES to research - or - How designing based on my own basis led me to basic mistakes
 
-* **YES to research - or - How designing based on my own basis led me to basic mistakes**
+Each journey map I crafted for users flow was based on my assumption of how users will behave,  from where they will start, which clues they will carry on to the next and how would they physically engage with the physical components I made.
+Something I was utterly surprised to find out (repeatedly) how much basing your design on your own basis is the wrong design choice to make.
+Even when iterating the wireframes and journey maps a couple of times I completely missed some basic assumptions I made on how each user might interact with my design.
 
+## Design is sanity
 
-    Each journey map I crafted for users flow was based on my assumption of how users will behave,  from where they will start, which clues they will carry on to the next and how would they physically engage with the physical components I made.
-    Something I was utterly surprised to find out (repeatedly) how much basing your design on your own basis is the wrong design choice to make.
-    Even when iterating the wireframes and journey maps a couple of times I completely missed some basic assumptions I made on how each user might interact with my design.
-
-
-* **Design is sanity**
-
-    Making up clues, designing the logic and flow of the experience genuinely has been the most joyful moments in my quarantine. I felt as if my brain received a fresh breath of air. An unbelievably precious resource these days.  
+Making up clues, designing the logic and flow of the experience genuinely has been the most joyful moments in my quarantine. I felt as if my brain received a fresh breath of air. An unbelievably precious resource these days.  
 
 
-    <figure>
-      <img class="fit image" src="images/fulls/escape_room_sunset.jpg" />
-    </figure>
+<img class="fit image" src="images/fulls/escape_room_sunset.jpg" />

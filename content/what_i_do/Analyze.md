@@ -3,4 +3,5 @@ icon: fas fa-lightbulb
 date: 17.10.2018
 
 
-Making sense of the clutter, uncovering patterns or finding areas of improvement from existing solutions. Bringing to light the user's underline story.
+Making sense of the clutter, uncovering patterns, and finding ways to improve existing solutions.
+Shedding a light on the user's underlying story.

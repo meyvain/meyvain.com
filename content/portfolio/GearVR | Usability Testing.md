@@ -1,11 +1,9 @@
 Title: GearVR | Usability Testing
 Date: 2016-01-01 10:10
-Summary: An independent usability test exercise on Oculus:GearVR. A comparative study, questioning the impact of a controller on the Gear VR experience.
+Summary: A usability test exercise on GearVR. A comparative study, questioning the impact of a controller on the user experience.
 Thumbnail: images/thumbs/Thumb_Gear-VR-with-Controller.jpg
 
-<figure>
-  <img class="fit image" src="images/fulls/VR_usability_test_landsend.jpg" />
-</figure>
+<img class="fit image" src="images/fulls/VR_usability_test_landsend.jpg" />
 
 # Background
 
@@ -17,7 +15,7 @@ Being particularly interested in other's opinion regarding the controller issues
 
 <figure>
   <img class="fit image" src="images/fulls/Gear-VR-with-Controller.jpg" />
-  <figcaption> Oculus : GearVR.</figcaption>
+  <figcaption>Samsung GearVR and controller, powered by Oculus.</figcaption>
 </figure>
 
 
@@ -27,7 +25,7 @@ To unfold the GearVR experience, focusing on the impact of the controller, I pla
 
 Aiming to combine both behavioural and attitudinal aspects in this research I decided to combine both observations and interview in this moderated usability testing.
 
-### *Attitudinal*
+## Attitudinal
 
 Covering human-machine interaction in my research projects in the past with particular interest in bodily experiences I aimed to explore participants
 
@@ -35,19 +33,19 @@ Covering human-machine interaction in my research projects in the past with part
 - movement
 - navigation issues
 
-### *Behavioural*
+## Behavioural
 
 Conducting semi-structured short interviews. Before and after each task.
 Before - mainly to hear about their previous experience in VR and expectations.
 After - to hear about their experience, preferences, struggles etc
 
-### *Participants*
+## Participants
 
 I gathered a couple of my roommates to be my participants. And together with my partner, I gathered 4 participants. All male, aged between 25-32.
 
 To avoid bias in the findings while having a small sample size I aimed for 2 participants to start with the controller and 2 to start without.
 
-### *The usability task:*
+## The usability task
 
 Each participant was asked to complete 4 whole chapters of a VR game called [Land's End](http://www.landsendgame.com/) (for about an hour) two chapters with controller and two chapters without the controller; navigating only with the controller or alternatively the touch-pad provided on the right-hand side of the headset and the gaze capture navigation mechanism.
 
@@ -89,8 +87,6 @@ Using sticky notes to summarise finding. To uncover patterns in the experience I
 |   | better immersion |
 
 
-
-
 <figure>
   <img class="fit image" src="images/fulls/VR_usability_comb_sketch_2.png" />
   <figcaption> Employing sketches to communicate participants' experience and body language. </figcaption>
@@ -104,17 +100,16 @@ Users reported that the absence of the controller is causing a lack of engagemen
 - only male participants
 - small sample size
 - the particular game I based this test upon, [Land's End](http://www.landsendgame.com/), has a very fluent gaze-based mechanism for navigation. I would argue that other tasks in different environments would suggest other needs and other interactions altogether.
-
 - not having them getting me input during the tasks.
 
-    I decided to avoid the 'thinking out loud' techniques which is known to be valuable in usability testing, due to the nature of VR. Having an immersive experience in VR, following academical research, is rather impacted by the isolation elements this system holds.
-    Communicating during the experience is highly regarded as a disturbing effect to such illusions and can shatter the illusion and overall interaction with the system.
+I decided to avoid the 'thinking out loud' techniques which is known to be valuable in usability testing, due to the nature of VR. Having an immersive experience in VR, following academical research, is rather impacted by the isolation elements this system holds.
+Communicating during the experience is highly regarded as a disturbing effect to such illusions and can shatter the illusion and overall interaction with the system.
 
 
 
 # Lesson Learned
 
-### **The Power of Comparison**
+## The power of comparison
 
   - participants articulation was improved after the two sessions (with and without the controller)
   - contextual immediate comparison
@@ -124,7 +119,7 @@ Users reported that the absence of the controller is causing a lack of engagemen
 It was really interesting to see how impact-full the comparison part was in the way the participants articulated their experiences.
 Coming from anthropology where a comparison is made in an analytical macro position rather than in contextual experimental form. Which I found powerful and insightful.
 
-### **The Power of Research**
+## The power of research
 
 Undertaking this usability testing showed me once again the power of research vs assumptions.
 The findings completely shattered my expectation. As I don't tend to enjoy navigating with this controller I assumed my friends will find it just as an obstacle as I did. And yet, they all preferred to use the controller during this game after all.

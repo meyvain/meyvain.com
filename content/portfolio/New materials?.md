@@ -1,4 +1,4 @@
-Title: New materials?
+Title: New Materials?
 Date: 2019-01-01 10:10
 Summary: A research based project conducted for a materials design startup and consultancy interested in grown materials and wearable technology.
 Thumbnail: images/thumbs/Rhian-Solomon-body_design_anth.jpg
@@ -12,11 +12,10 @@ Thumbnail: images/thumbs/Rhian-Solomon-body_design_anth.jpg
 
 This project was conducted in 2019 as part of an internship for a materials design startup and consultancy, part of Design Anthropology module, in University College London.
 
-As a team of three students, we were paired with a firm, [Our Own Skin](https://ourownskin.co.uk/) based in London. Visionary conceptual designers who were at the time in the process of developing their brand in the field. They were working on their conceptual designs while figuring out their business strategy and goals.
+As a team of three students, we were paired with the London based firm [Our Own Skin](https://ourownskin.co.uk/). They are visionary conceptual designers who were at the time in the process of developing their brand in the field. They were working on their conceptual designs while figuring out their business strategy and goals.
 
-Our Own Skin were interested in "new" materiality: either products made from the body, otherwise known as bio or grown materials, or new forms of wearable technology.
+Our Own Skin were interested in "new" materiality. These are either products made from the body, otherwise known as bio or grown materials, or new forms of wearable technology.
 We were tasked with helping the firm get a better understanding of trends around body augmentation in the industry, as well as exploring possible cultural adoptions of "new" materiality designs.
-
 We conducted exploratory research, focusing on the body and human augmentation. Delivering design workshop, a design game as a tool for prospective projects and initial database.
 
 
@@ -24,7 +23,7 @@ We conducted exploratory research, focusing on the body and human augmentation. 
 
 * Improve clarity and help focus the designers' wide range of interests and projects.
 * Our Own Skin were looking to overcome the limited availability of human grown materials and find ways to incorporate biomaterials in their designs. However, innovative biomaterials or "new" materiality is a relatively new and undeveloped field, where human extracted materials (i.e. human bi-products turned into materials) or grown materials are not widely used.
-* time constraints
+* time constraints.
 
 
 # Solution
@@ -43,18 +42,18 @@ Together with the clients, we established 3 target areas for exploration:
 
 From each category, we had found a representative, who we later conducted an ethnographic session with, gathering our core database.
 
-**my part**
+**My Contribution**
 
-We divided the research work equally, where each got one sector to be researched, where I was in charge of Health & Wellness.
+We divided the research work equally, where each got one sector to be researched. I was in charge of Health & Wellness.
 
 
-# Deliverable
+# Deliverables
 
 To create conceptual designs around "new" bodily made materials, wearable technology and human augmentation as well as body conceptual designs, we gathered ethnographic data to workshop together with our clients.
 
 Creating:
-1. A conceptual ideas generator workshop
-2. A game for innovating designs to be used for consultancy or in house projects
+1. A conceptual ideas generator workshop.
+2. A game for innovating designs to be used for consultancy or in house projects.
 3. Passing along the database for initial work on new concepts and a foundation to grow from.
 
 ## I. Workshop
