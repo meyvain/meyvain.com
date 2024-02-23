@@ -33,20 +33,19 @@ Now go to [localhost:8000](http://localhost:8000) in the browser to see your sit
 
 ## git
 
-git pull # to be sure you have all the late work from other contributors
+    git pull # to be sure you have all the late work from other contributors
 
-git add
+    git add
 
-git commit   # +name your changes
+    git commit   # +name your changes
 
-git push   
+    git push
 
 ## Deployment
 
-To deploy first get into:
+To deploy first run:
 
-source env/bin/activate
-
+    source env/bin/activate
 
 then run:
 
