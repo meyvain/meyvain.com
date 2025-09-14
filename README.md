@@ -4,6 +4,8 @@ Available online at [mitch.leverstone.me](https://mitch.leverstone.me).
 
 ## Development
 
+First, make sure you have [`uv`](https://docs.astral.sh/uv/) installed.
+
 To start working on this project:
 
     # Downloading the project from GitHub
@@ -13,21 +15,11 @@ To start working on this project:
     cd mitch.leverstone.me
 
     # Prepare the python virtual environment
-    python -m venv env
-    source env/bin/activate
-    pip install -r requirements.txt
-
-When working on the project make sure you always activate the virtual environment (in *all* terminals):
-
-    source env/bin/activate
+    uv sync
 
 After that, to work on the site locally on your computer regenerate the site and serve it:
 
-    # In one terminal window
-    make regenerate
-
-    # In another terminal window
-    make serve
+    uv run pelican -rl
 
 Now go to [localhost:8000](http://localhost:8000) in the browser to see your site (served from your computer, not from the web).
 
@@ -43,13 +35,7 @@ Now go to [localhost:8000](http://localhost:8000) in the browser to see your sit
 
 ## Deployment
 
-To deploy first run:
-
-    source env/bin/activate
-
-then run:
-
-    make github
+Deployment is done automatically using GitHub actions whenever changes are pushed to the repository.
 
 ### The nitty-gritty details
 
