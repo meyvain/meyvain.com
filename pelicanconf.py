@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Meytal Mitchell Vainstub'
-SITENAME = 'Meytal Mitchell Vainstub'
+AUTHOR = 'M. Mitchell Leverstone'
+SITENAME = 'M. Mitchell Leverstone'
 SITEURL = ''
-DESCRIPTION = 'UX Researcher | Digital Anthropologist'
+DESCRIPTION = 'Design Researcher & Strategist'
 
 PATH = 'content'
 
@@ -26,8 +26,7 @@ AUTHOR_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 BLOGROLL = [
-    ('Linkedin', 'Meytal Mitchell Vainstub', 'brands fa-linkedin', 'https://www.linkedin.com/in/meytal-mitchell-vainstub-ux-research/'),
-    ('Twitter', '@meyvain', 'brands fa-twitter', 'https://twitter.com/meyvain/'),
+    ('Linkedin', 'M. Mitchell Leverstone', 'brands fa-linkedin', 'https://www.linkedin.com/in/https://www.linkedin.com/in/mitch-design-research/'),
     ('eMail', 'meyvain@gmail.con', 'solid fa-envelope', 'mailto:meyvain@gmail.com'),
 ]
 

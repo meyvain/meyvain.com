@@ -1,4 +1,4 @@
-# Meytal Mitchell Vainstub portfolio website
+# M. Mitchell Leverstone's portfolio website
 
 Available online at [mitch.leverstone.me](https://mitch.leverstone.me).
 
