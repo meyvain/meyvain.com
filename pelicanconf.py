@@ -26,7 +26,7 @@ AUTHOR_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 BLOGROLL = [
-    ('Linkedin', 'M. Mitchell Leverstone', 'brands fa-linkedin', 'https://www.linkedin.com/in/https://www.linkedin.com/in/mitch-design-research/'),
+    ('Linkedin', 'M. Mitchell Leverstone', 'brands fa-linkedin', 'https://www.linkedin.com/in/mitch-design-research/'),
     ('eMail', 'meyvain@gmail.con', 'solid fa-envelope', 'mailto:meyvain@gmail.com'),
 ]
 

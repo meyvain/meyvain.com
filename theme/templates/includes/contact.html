@@ -9,7 +9,9 @@
             <h2>Get In Touch</h2>
             <ul class="contact">
                 {% for _, content, icon, link in BLOGROLL %}
-                <li class="icon {{ icon }}"><a href="{{ link }}">{{ content }}</a></li>
+                <li class="icon {{ icon }}">
+                    <a href="{{ link }}" target="_blank" rel="noopener noreferrer">{{ content }}</a>
+                </li>
                 {% endfor %}
                 <li class="icon solid fa-phone">(+44) 07729046656</li>
             </ul>

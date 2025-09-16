@@ -2,7 +2,11 @@
     <a href="index.html" class="logo"><strong>{{ SITENAME }}</strong></a>
     <ul class="icons">
         {% for label, _, icon, link in BLOGROLL %}
-            <li><a href="{{ link }}" class="icon {{ icon }}"><span class="label">{{ name }}</span></a></li>
+            <li>
+                <a href="{{ link }}" class="icon {{ icon }}" target="_blank" rel="noopener noreferrer">
+                    <span class="label">{{ name }}</span>
+                </a>
+            </li>
         {% endfor %}
     </ul>
 </header>
