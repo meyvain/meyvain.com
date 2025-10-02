@@ -1,6 +1,6 @@
 Title: Beyond the Client's Assumptions
 Date: 2022-01-01 10:10
-Summary: Challenging client assumptions through in-field ethnography to drive a long-term medical innovation partnership.
+Summary: Challenging client assumptions through in-field ethnography to drive next-generation medical device/drug combination strategy.
 Thumbnail: images/thumbs/big-screen-share-out.avif
 
 ## The Challenge
