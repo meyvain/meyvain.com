@@ -58,7 +58,7 @@ The images above were taken during field observation I performed in France and G
 </figure>
 
 <figure>
-  <img class="fit image" src="images/fulls/Case 1 - Client digital workshop results page.webp" />
+  <img class="fit image" src="images/fulls/Case 1 - Client digital workshop results page.avif" />
   <figcaption>A snapshot from Mural, a digital whiteboard, used for a digital co-creation and strategy workshop we help with our client, 2022.</figcaption>
 </figure>
 
