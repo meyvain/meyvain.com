@@ -13,7 +13,7 @@ approaches and identify future treatment pathways for new lung drug delivery.
 
 We had conducted multi-geography on-site ethnography (we’ve been in China, US, France and Germany) in various operating theatres and conducted numerous In-Depth Interviews with interventionalists and specialists as we embedded ourselves in the field.
 
-In the process, we identify quite a lot of needs and opportunities – and so we involved Key Opinion Leaders from the industry to help our clients to prioritise those needs through alignment workshops to drive the next phase of innovation with much better clarity and strategic alignment.
+In the process, we identify quite a lot of needs and opportunities – and so we involve Key Opinion Leaders from the industry to help our clients to prioritise those needs through alignment workshops to drive the next phase of innovation with much better clarity and strategic alignment.
 
 
 ## Deliverables
@@ -33,7 +33,7 @@ But what does this **risk** actually look like in practice? To move beyond secon
 
 Observing these procedures in the operating theatre, I argue, provided us with a much richer understanding of the clinicians' workflow and enabled us to witness the needs that are often left unsaid and in turn, become unmet opportunities. Particularly, as we felt that understanding the gravitas of the pneumothorax risk and contextualising it against our client's assumptions was key.
 
-So off we went, my key goals were to explore the workflow, examine the procedure and play special attention to the proceduralist's dynamic and document it in a way that would, if anything, help our clients build empathy with these proceduralists and better understand their experience; seeing and feeling the nuances of their stress, excitement and decision making.
+So off we went, my key goals were to explore the workflow, examine the procedure and pay special attention to the proceduralist's dynamic and document it in a way that would, if anything, help our clients build empathy with these proceduralists and better understand their experience; seeing and feeling the nuances of their stress, excitement and decision making.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 1 - OBS France blured.webp" />
@@ -59,10 +59,10 @@ The images above were taken during field observation I performed in France and G
 
 <figure>
   <img class="fit image" src="images/fulls/Case 1 - Client digital workshop results page.avif" />
-  <figcaption>A snapshot from Mural, a digital whiteboard, used for a digital co-creation and strategy workshop we help with our client, 2022.</figcaption>
+  <figcaption>A snapshot from Mural, a digital whiteboard, used for a digital co-creation and strategy workshop we held with our client, 2022.</figcaption>
 </figure>
 
-Using Mural functions to co-create when hosting a strategy workshop online with our clients, allowed us to collaborate and align instantly. Participants where able to vote and prioritise identified user needs and opportunity areas, as well as highlighting potential risks and barriers and clarify and highlight where our team needed more direction in an interactive manner.
+Using Mural functions to co-create when hosting a strategy workshop online with our clients, allowed us to collaborate and align instantly. Participants were able to vote and prioritise identified user needs and opportunity areas, as well as highlighting potential risks and barriers and clarify and highlight where our team needed more direction in an interactive manner.
 
 ## Strategic Impact & Long-Term Partnership
 
@@ -72,5 +72,5 @@ I am particularly proud that the client, recognising the value of this human-cen
 
 <figure>
   <img class="fit image" src="images/fulls/Case 1 - big screen share out.avif" />
-  <figcaption>Presenting findings in 2022. I had the privilege of sharing these learnings with a wider, moderate audience, both internally on a case study show pannel and with our clients on various raounds of read out to differen stakeholders.</figcaption>
+  <figcaption>Presenting findings in 2022. I had the privilege of sharing these learnings with a wider, moderate audience, both internally on a case study show panel and with our clients on various rounds of read-outs to different stakeholders.</figcaption>
 </figure>
