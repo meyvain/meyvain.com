@@ -1,18 +1,18 @@
 Title: Pivot Is Not Only a Table
 Date: 2021-01-01 10:10
-Summary: Led complex medical research, making a critical pivot to deliver clear, actionable strategic insights.
+Summary: Contributing and leading a large-scale qualitative discovery project tasked with uncovering latent current and future user needs in the world of combination drug-device, in light of the transition to home-based treatment, concluding with a co-creation workshop with actionable strategic insights.
 Thumbnail: images/thumbs/case_2_obs.webp
 
 ## The Challenge
 
-The primary challenge on this project was to maintain research rigor and strategic clarity while navigating immense complexity. We were tasked with conducting a large-scale (some might even argue pushing qual into quant with N=55) discovery project across three different therapeutic areas and three stakeholder groups —all on an aggressive timeline. The key challenge was not just to execute the research, but to find a clear, actionable signal amidst the noise and be agile enough to adapt our approach when new insights emerged or the scope was changed by the client (yet again).
+We were tasked with conducting a large-scale (some might even argue pushing qualitative into quantitative with N=70) discovery project across three different therapeutic areas and three stakeholder groups —all of which to be concluded on an aggressive timeline. The key challenge was not just to execute the research, but to find a clear, actionable signal amidst the noise and to be agile enough to adapt our approach when new insights emerged or the scope was changed by the client (yet again).
 
-And to contextualise things further, and zoom the lens perhaps a touch closer, the technical lead on the project had left the team, just as we were about to approach the discovery phase, leaving me the lead researcher on this project. Although a privilege, this was not an easy task for me to take with immediate effect.
+(And to zoom the lens perhaps a touch closer via my private lens, the technical lead on the project had left the team, just as we were about to approach the discovery phase, leaving me as the lead researcher on this project. Although it was certainly a privilege, this was not an easy task for me to take on with immediate effect.)
 
 
 ## The Approach
 
-We began with a short, immersive one-day ethnography in a London operating theatre. While brief, this early contextual inquiry was critical. It allowed us to ground our assumptions in reality and better anticipate the risks and opportunities, informing how are we to design and craft all subsequent research materials.
+We began with a short, immersive one-day ethnography in a London operating theatre. While brief, this early contextual inquiry was critical. It allowed us to ground our assumptions in reality and better anticipate the risks and opportunities, informing how we are to design all subsequent research materials.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - OBS II.webp" />
@@ -23,7 +23,7 @@ We began with a short, immersive one-day ethnography in a London operating theat
   <figcaption>During observation in a hospital in London, December 2024.</figcaption>
 </figure>
 
-We then moved into stakeholder interviews, using the DVF (Desirability, Viability, Feasibility) framework to map the business landscape. This, combined with a co-creation workshop, allowed our industrial designers to develop visual stimuli—a crucial methodological tool to help us uncover latent, unmet needs during the main phase of discovery.
+We then moved into the stakeholder interviews stage, using the DVF (Desirability, Viability, Feasibility) framework to map the business landscape. This, combined with a co-creation workshop, allowed our industrial designers to develop visual stimuli— a crucial methodological tool we use often to help us uncover latent, unmet user needs during the main phase of discovery research.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
@@ -38,9 +38,9 @@ We then moved into stakeholder interviews, using the DVF (Desirability, Viabilit
 
 ## The Pivot
 
-After the first few of our 55 planned interviews, I recognised a critical issue: our carefully crafted visual stimulus was unintentionally leading users and creating significant assumptions.
+After the first few of our 70 planned interviews, I recognised a critical issue: our carefully crafted visual stimulus was unintentionally leading users and creating significant assumptions.
 
-I made the leadership call to pivot. Despite the time and effort already invested by the team, we paused and developed a simpler, more open-ended user journey framework. This was a difficult decision mid-fieldwork, but it was a necessary strategic call to protect the integrity of the data. The new stimulus was implemented rapidly, and the improvement in data quality was immediate and significant, a result the client fully supported.
+I made the leadership call to pivot. Despite the time and effort already invested by the team, I paused and crafted a simpler, more open-ended user journey framework stimulus. This was a difficult decision mid-fieldwork, but it was a necessary strategic call to protect the integrity of the data. The new stimulus was implemented rapidly, and the improvement in data quality was immediate and significant, a decision the client fully supported.
 
 
 ## Deliverables & Strategic Impact
@@ -57,7 +57,7 @@ The beautiful chaos of our synthesis was ultimately distilled into a highly stru
   <figcaption>One of our final deliverables, a user needs table (Following the BioDesign framework) categorised with synergies according to our findings and the client's preferred formatting/journey steps.</figcaption>
 </figure>
 
-The project culminated in a strategy workshop in the US, where we presented our findings and the prioritised user needs list. For me, this is the core of the craft. It is a humbling and powerful moment to be in a room of decision-makers, sharing insights people have trusted you with. Our role is to be the bridge—to bring the unfiltered voice of the user directly to those who will design their next medical device, building the empathy and clarity that is the foundation of all great innovation.
+The project culminated in a strategy workshop in the US, where I presented our findings and collaborated on the prioritised user needs list to craft different opportunity areas and strategise on the different avenues the team can explore moving forward. For me, this is the core of the craft. It is a humbling and powerful moment to be in a room of decision-makers, sharing insights that people have trusted you with and bringing their voice true. My role is to be the bridge—to bring the unfiltered voice of the user directly to those who will design their next medical device, building the empathy and strategic clarity that is the foundation of all great innovation.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - workshop blur.webp" />
