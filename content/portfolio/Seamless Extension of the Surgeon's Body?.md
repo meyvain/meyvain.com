@@ -61,3 +61,4 @@ The actual surgical tools on the robot's arms are not radically different from t
 While the medical community debates clinical efficacy, the market has delivered a clear verdict: the da Vinci system's adoption is growing exponentially. This case study demonstrates perhaps that by solving a latent, human-centred need of surgeons, the design of the user experience itself became a critical factor in transforming a multi-billion dollar industry and redefining the very practice of surgery.
 
 <img class="image fit" src="images/fulls/davinci_surgery_fieldwork.jpg">
+ <figcaption>Image taken during my field work as I conducted contextual inquiry observing minimal invasive robotic-assisted surgery in 2019, London uk</figcaption>
