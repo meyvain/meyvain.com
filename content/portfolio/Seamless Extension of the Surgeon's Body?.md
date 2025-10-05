@@ -28,7 +28,8 @@ In high-stakes environments like surgery, design is not a luxury; it dictates wo
 
 ## Methods
 
-To understand the authentic user experience, I conducted generative, ethnographic research inside a specialised robotic-assisted surgery department. My approach included: 
+To understand the authentic user experience, I conducted generative, ethnographic research inside a specialised robotic-assisted surgery department. My approach included:
+
 - Contextual Inquiry: six multi-hour surgeries in the operating theatre, capturing the unfiltered realities of the workflow, team dynamics, and human-robot interaction.
 - In-Depth Interviews: six Semi-structured interviews with surgeons to explore their perceptions, motivations, and the nuances of their experience with the system.
 - On-Site Intercepts: Informal interviews with surgical staff to build a holistic ecosystem view of how the technology impacts the entire team.
