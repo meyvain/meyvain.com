@@ -23,11 +23,16 @@ We began with a short, immersive one-day ethnography in a London operating theat
   <figcaption>During observation in a hospital in London, December 2024.</figcaption>
 </figure>
 
-We then moved into the stakeholder interviews stage, using the DVF (Desirability, Viability, Feasibility) framework to map the business landscape. This, combined with a co-creation workshop, allowed our industrial designers to develop visual stimuli— a crucial methodological tool we use often to help us uncover latent, unmet user needs during the main phase of discovery research.
+We then moved into the stakeholder interviews stage, using the DVF (Desirability, Viability, Feasibility) framework to map the business landscape. This, combined with a co-creation workshop, allowed us to collaborate with our industrial designers to develop storyboards as a visual stimulus— a crucial methodological tool we often use to help us uncover latent, unmet user needs during the main phase of discovery research.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
   <figcaption>A snapshot from Miro, our team virtual whiteboard, leveraging the DVF Framework (IDEO's Desirability, Viability, Feasibility).</figcaption>
+</figure>
+
+<figure>
+  <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
+  <figcaption>A snapshot from Miro, as we were in the midst of the storyboarding process.</figcaption>
 </figure>
 
 <figure>
