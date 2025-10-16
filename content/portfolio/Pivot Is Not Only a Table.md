@@ -1,18 +1,18 @@
 Title: Pivot Is Not Only a Table
 Date: 2021-01-01 10:10
-Summary: Contributing and leading a large-scale qualitative discovery project tasked with uncovering latent current and future user needs in the world of combination drug-device, in light of the transition to home-based treatment, concluding with a co-creation workshop with actionable strategic insights.
+Summary: Contributing and leading a large-scale qualitative front-end discovery project tasked with uncovering latent current and future user needs in the case study of combination drug-device, in light of the transition to home-based treatment service design, concluding with an opportunity-scoping co-creation workshop with actionable strategic insights.
 Thumbnail: images/thumbs/case_2_obs.webp
 
 ## The Challenge
 
-We were tasked with conducting a large-scale (some might even argue pushing qualitative into quantitative with N=70) discovery project across three different therapeutic areas and three stakeholder groups —all of which to be concluded on an aggressive timeline. The key challenge was not just to execute the research, but to find a clear, actionable signal amidst the noise and to be agile enough to adapt our approach when new insights emerged or the scope was changed by the client (yet again).
+We were tasked with conducting a large-scale (some might even argue pushing qualitative into quantitative with N=70 In-Depth Interviews) discovery project across three different therapeutic areas and three user groups, all of which had to be concluded on an aggressive timeline, for one of the largest global pharmaceutical companies out there, and certainly one of the team's biggest clients. The key challenge was not just to execute the research [crafting the research materials, inc screeners and interview guides, and stakeholder interviews, user interviews, contextual inquiry/ethnographic field work, building storyboards, workflow map, pain points/service frictions mapping, culminating in a report where we would share our insights, with a detailed user needs map and strategic opportunity scoping]. Rather, to find a clear direction, a signal amidst the noise, as the client was under a lot of pressure and was lacking clarity in their ask and communication. 
 
-(And to zoom the lens perhaps a touch closer via my private lens, the technical lead on the project had left the team, just as we were about to approach the discovery phase, leaving me as the lead researcher on this project. Although it was certainly a privilege, this was not an easy task for me to take on with immediate effect.)
+Personally, one of the challenges I faced during this project was introduced when the technical lead on the project left the team, just as we were about to approach the discovery phase, leaving me as the lead researcher on this project. Although a privilege, this was not an easy task, with immediate effect, with a project already on an aggressive timeline.
 
 
 ## The Approach
 
-We began with a short, immersive one-day ethnography in a London operating theatre. While brief, this early contextual inquiry was critical. It allowed us to ground our assumptions in reality and better anticipate the risks and opportunities, informing how we are to design all subsequent research materials.
+We began with a short, immersive one-day contextual inquiry/ethnographic field work in the operating theatre. While brief, this early contextual inquiry was critical. It allowed us to ground our assumptions in reality and better anticipate the risks and opportunities, the workflow with a holistic service view, informing how we are to design all subsequent research materials.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - OBS II.webp" />
@@ -27,7 +27,7 @@ We then moved into the stakeholder interviews stage, using the DVF (Desirability
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
-  <figcaption>A snapshot from Miro, our team virtual whiteboard, leveraging the DVF Framework (IDEO's Desirability, Viability, Feasibility).</figcaption>
+  <figcaption>A snapshot from Miro, our team virtual whiteboard, leveraging the DVF Framework (Desirability, Viability, Feasibility).</figcaption>
 </figure>
 
 <figure>
@@ -43,7 +43,7 @@ We then moved into the stakeholder interviews stage, using the DVF (Desirability
 
 ## The Pivot
 
-After the first few of our 70 planned interviews, I recognised a critical issue: our carefully crafted visual storyboard stimulus was unintentionally leading users and creating significant assumptions.
+After the first few of our 70 planned user interviews, I recognised a critical issue: our carefully crafted visual storyboard stimulus was unintentionally biasing users and creating significant assumptions.
 
 I made the leadership call to pivot. Despite the time and effort already invested by the team, I paused and crafted a simpler, more open-ended user journey framework stimulus, rather than a fully fleshed-out storyboard. This was a difficult decision mid-fieldwork, but it was a necessary strategic call to protect the integrity of the data. The new low-fidelity workflow stimulus was implemented rapidly, and the improvement in data quality was immediate and significant, a decision the client fully supported.
 
