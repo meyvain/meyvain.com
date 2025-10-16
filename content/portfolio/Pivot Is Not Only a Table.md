@@ -31,7 +31,7 @@ We then moved into the stakeholder interviews stage, using the DVF (Desirability
 </figure>
 
 <figure>
-  <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
+  <img class="fit image" src="images/fulls/Case 2 - storyboard.webp" />
   <figcaption>A snapshot from Miro, as we were in the midst of the storyboarding process.</figcaption>
 </figure>
 
