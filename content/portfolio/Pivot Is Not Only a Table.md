@@ -43,9 +43,9 @@ We then moved into the stakeholder interviews stage, using the DVF (Desirability
 
 ## The Pivot
 
-After the first few of our 70 planned interviews, I recognised a critical issue: our carefully crafted visual stimulus was unintentionally leading users and creating significant assumptions.
+After the first few of our 70 planned interviews, I recognised a critical issue: our carefully crafted visual storyboard stimulus was unintentionally leading users and creating significant assumptions.
 
-I made the leadership call to pivot. Despite the time and effort already invested by the team, I paused and crafted a simpler, more open-ended user journey framework stimulus. This was a difficult decision mid-fieldwork, but it was a necessary strategic call to protect the integrity of the data. The new stimulus was implemented rapidly, and the improvement in data quality was immediate and significant, a decision the client fully supported.
+I made the leadership call to pivot. Despite the time and effort already invested by the team, I paused and crafted a simpler, more open-ended user journey framework stimulus, rather than a fully fleshed-out storyboard. This was a difficult decision mid-fieldwork, but it was a necessary strategic call to protect the integrity of the data. The new low-fidelity workflow stimulus was implemented rapidly, and the improvement in data quality was immediate and significant, a decision the client fully supported.
 
 
 ## Deliverables & Strategic Impact
@@ -62,7 +62,7 @@ The beautiful chaos of our synthesis was ultimately distilled into a highly stru
   <figcaption>One of our final deliverables, a user needs table (Following the BioDesign framework) categorised with synergies according to our findings and the client's preferred formatting/journey steps.</figcaption>
 </figure>
 
-The project culminated in a strategy workshop in the US, where I presented our findings and collaborated on the prioritised user needs list to craft different opportunity areas and strategise on the different avenues the team can explore moving forward. For me, this is the core of the craft. It is a humbling and powerful moment to be in a room of decision-makers, sharing insights that people have trusted you with and bringing their voice true. My role is to be the bridge—to bring the unfiltered voice of the user directly to those who will design their next medical device, building the empathy and strategic clarity that is the foundation of all great innovation.
+The project culminated in a strategy workshop in the US, where I presented our findings and collaborated on the prioritised user needs list to craft different opportunity areas and strategise on the different avenues the team can explore moving forward. It is a humbling and powerful moment to be in a room of decision-makers, sharing insights that people have trusted you with and bringing their voice true. My role here was to be the bridge and a thought partner — to bring the voice of the user directly to those who need to hear it most, as we build the empathy and strategic clarity that is the foundation of all great innovation.
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - workshop blur.webp" />
