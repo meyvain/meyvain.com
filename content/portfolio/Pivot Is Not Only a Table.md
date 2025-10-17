@@ -5,7 +5,7 @@ Thumbnail: images/thumbs/case_2_obs.webp
 
 ## The Challenge
 
-We were tasked with conducting a large-scale (some might even argue pushing qualitative into quantitative with N=70 In-Depth Interviews) discovery project across three different therapeutic areas and three user groups, all of which had to be concluded on an aggressive timeline, for one of the largest global pharmaceutical companies out there, and certainly one of the team's biggest clients. The key challenge was not just to execute the research [crafting the research materials, inc screeners and interview guides, and stakeholder interviews, user interviews, contextual inquiry/ethnographic field work, building storyboards, workflow map, pain points/service frictions mapping, culminating in a report where we would share our insights, with a detailed user needs map and strategic opportunity scoping]. Rather, to find a clear direction, a signal amidst the noise, as the client was under a lot of pressure and was lacking clarity in their ask and communication. 
+We were tasked with conducting a large-scale (some might even argue pushing qualitative into quantitative with N=70 In-Depth Interviews) discovery project across three different therapeutic areas and three user groups, all of which had to be concluded on an aggressive timeline, for one of the largest global pharmaceutical companies out there, and certainly one of the team's biggest clients. The key challenge was not just to execute the research [crafting the research materials, inc screeners and interview guides, and stakeholder interviews, user interviews, contextual inquiry/ethnographic field work, building storyboards, workflow map, pain points/service frictions mapping, culminating in a report where we would share our insights, with a detailed user needs map and strategic opportunity scoping]. Rather, to find a clear direction, a signal amidst the noise, as the client was under a lot of pressure and was lacking clarity in their ask and communication.
 
 Personally, one of the challenges I faced during this project was introduced when the technical lead on the project left the team, just as we were about to approach the discovery phase, leaving me as the lead researcher on this project. Although a privilege, this was not an easy task, with immediate effect, with a project already on an aggressive timeline.
 
@@ -24,11 +24,6 @@ We began with a short, immersive one-day contextual inquiry/ethnographic field w
 </figure>
 
 We then moved into the stakeholder interviews stage, using the DVF (Desirability, Viability, Feasibility) framework to map the business landscape. This, combined with a co-creation workshop, allowed us to collaborate with our industrial designers to develop storyboards as a visual stimulus— a crucial methodological tool we often use to help us uncover latent, unmet user needs during the main phase of discovery research.
-
-<figure>
-  <img class="fit image" src="images/fulls/Case 2 - DVF framework.webp" />
-  <figcaption>A snapshot from Miro, our team virtual whiteboard, leveraging the DVF Framework (Desirability, Viability, Feasibility).</figcaption>
-</figure>
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - storyboard.webp" />
