@@ -54,7 +54,7 @@ The beautiful chaos of our synthesis was ultimately distilled into a highly stru
 
 <figure>
   <img class="fit image" src="images/fulls/Case 2 - User needs.webp" />
-  <figcaption>One of our final deliverables, a user needs table (Following the BioDesign framework) categorised with synergies according to our findings and the client's preferred formatting/journey steps.</figcaption>
+  <figcaption>Snap shot from one of our final deliverables; a user needs table (Following the BioDesign framework) in an interactive format, categorised with synergies according to our findings across the workflow and user journey steps.</figcaption>
 </figure>
 
 The project culminated in a strategy workshop in the US, where I presented our findings and collaborated on the prioritised user needs list to craft different opportunity areas and strategise on the different avenues the team can explore moving forward. It is a humbling and powerful moment to be in a room of decision-makers, sharing insights that people have trusted you with and bringing their voice true. My role here was to be the bridge and a thought partner — to bring the voice of the user directly to those who need to hear it most, as we build the empathy and strategic clarity that is the foundation of all great innovation.
